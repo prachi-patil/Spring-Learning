@@ -1,4 +1,4 @@
-package com.springDemo;
+package com.springDemo.pureXMLConfig;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
